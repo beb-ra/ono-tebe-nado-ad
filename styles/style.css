@@ -244,7 +244,7 @@
 }
 
 .about {
-  margin-top: 130px;
+  margin-top: 140px;
   margin-left: 24px;
   /* margin-right: 24px; */
   display: flex;
@@ -289,8 +289,8 @@
 }
 
 .footer {
-  margin-top: 180px;
-  padding-right: 40px;
+  margin-top: 185px;
+  padding-right: 30px;
   padding-left: 40px;
   display: flex;
   justify-content: space-between;
